@@ -1,0 +1,52 @@
+.topUserImage{
+    margin-top: -15px;
+    border-radius: 22px;
+}
+
+.customImg{
+    max-height: 150px;
+    width: auto;
+    border: 1px solid saddlebrown;
+    padding: 3px;
+}
+
+.imgRmv{
+    margin-top: 10px;
+}
+
+input[type="file"] {
+    display: block;
+    padding: 0 !important;
+}
+
+.catDiv{
+    margin-bottom: 30px;
+}
+
+.marginTop{
+    margin-top: 10px;
+}
+
+.minHeight{
+    min-height: 130px !important;
+    max-height: 130px !important;
+    margin-bottom: 30px !important;
+    text-align: center;
+}
+
+.crossButtonPlace {
+     line-height: 12px;
+     width: 55px;
+     font-size: 8pt;
+     font-family: tahoma;
+     margin-top: 0px;
+     margin-right: 2px;
+     position:absolute;
+     top:0;
+     right:0;
+ }
+
+ .crossButtonPlace img{
+    height: 30px;
+    background-image: url(/delete.png);
+ }
